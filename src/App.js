@@ -11,10 +11,10 @@ class App extends Component {
         <Layout>
           <Header className="header" title="Inventaris" scroll>
             <Navigation>
-              <Link to="DataBase">DataBase</Link>
-              <Link to="aboutme">AboutME</Link>
-              <Link to="project">Project</Link>
-              <Link to="contact">Contact</Link>
+              <Link to="Inputan">Inputan</Link>
+              <Link to="transaksi">Transaksi</Link>
+              <Link to="output">Output</Link>
+              <Link to="Laporan">Laporan</Link>
             </Navigation>
           </Header>
           <Drawer title="Title">
