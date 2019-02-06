@@ -28,6 +28,7 @@ const Inputan = () => {
               Create
             </Button>
           </div>
+          <h5>--test--test--test--</h5>
           <div>
             <h2>View Barang</h2>
             <TableHead>
